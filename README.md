@@ -1,0 +1,1 @@
+This is my professional portfolio website showcasing my projects, skills, and achievements. Built using HTML, CSS, and JavaScript, the website features interactive elements, responsive design, and smooth navigation. It highlights my expertise in web development and serves as a digital resume.
